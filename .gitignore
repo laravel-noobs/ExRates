@@ -1,0 +1,12 @@
+/vendor
+.env
+.idea
+.vagrant
+Homestead.yaml
+Homestead.json
+.env
+.phpstorm.meta.php
+composer.lock
+access.log
+error.log
+npm-debug.log
